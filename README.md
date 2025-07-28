@@ -1,4 +1,4 @@
-# Tela de Login Simples
+# 🔐 Tela de Login Simples
 
 Este projeto é uma interface de **Login** desenvolvida com **HTML5 e CSS3**, com foco em um design moderno, limpo e responsivo.
 
@@ -16,7 +16,14 @@ Este projeto é uma interface de **Login** desenvolvida com **HTML5 e CSS3**, co
 
 ## 🚀 Como Usar
 
-1. Clone o repositório:
-
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+# 1. Clone o repositório
+git clone https://github.com/LucasViniciusBermudes/css-login-screen.git
+
+# 2. Acesse a pasta do projeto
+cd css-login-screen
+
+# 3. Abra o arquivo HTML no navegador
+start index.html      # Windows
+open index.html       # macOS
+xdg-open index.html   # Linux
